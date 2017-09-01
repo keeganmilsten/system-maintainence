@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=System Maintainance
+Comment=System Maintianance
+Icon=application-default-icon
+Exec=update.sh
+NoDisplay=false
+Categories=Utility;
+StartupNotify=false
+Terminal=false
